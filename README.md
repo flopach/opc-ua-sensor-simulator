@@ -8,11 +8,13 @@ This is an OPC UA simulation server written in Python, which sends out 3 values 
 
 `git clone https://github.com/flopach/opc-ua-sensor-simulator`
 
-2. Install required Python packages
+2. Install required Python packages (Python 3 is required)
 
 `pip install -r requirements.txt`
 
-3. Run the script (Port **4840** needs to be open!):
+3. Extract the **sensor.csv** file (120MB) located in the ZIP archive.
+
+4. Run the script (Port **4840** needs to be open!):
 
 `python opc-ua-server.py`
 
