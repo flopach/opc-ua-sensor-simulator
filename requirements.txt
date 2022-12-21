@@ -3,7 +3,7 @@ aiosqlite==0.15.0
 asyncua==0.8.4
 cffi==1.14.2
 cryptography==3.0
-lxml==4.5.2
+#lxml==4.9.2
 numpy==1.19.1
 pandas==1.1.0
 pycparser==2.20
